@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm am a behavioral ecologist using remote sensing to study marine mammals. Specifically, I use drones to study the behavior and morphology of marine mammals and I've spent years developing software tools as part of that process.
+
+I'm currently a postdoctoral scholar in Oregon State University's Marine Mammal Institute where I'm studying social behavior.
+
 <!--
 **cbirdferrer/cbirdferrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
