@@ -1,8 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Clara.
 
-I'm am a behavioral ecologist using remote sensing to study marine mammals. Specifically, I use drones to study the behavior and morphology of marine mammals and I've spent years developing software tools as part of that process.
+I'm am a behavioral ecologist using remote sensing to study marine mammals. These days I use drones to study the behavior and morphology of marine mammals, but my background is in studying marine megafauna using image analysis and drone data (🐋,🐧). I've spent years developing software tools to help with research, mostly in the world of cetacean photogrammetry. 
 
 I'm currently a postdoctoral scholar in Oregon State University's Marine Mammal Institute where I'm studying social behavior.
+
+<details>
+<summary>Looking for links to photogrammetry tools? check out resources from the MMI Center Of Drone Excellence (CODEX)</summary>
+  
+- [webiste](https://mmi.oregonstate.edu/centers-excellence/codex) for the full workflow and other resources.
+- [github](https://github.com/MMI-CODEX) for the tool repositories.
+</details>
+
+<details> 
+<summary>Looking for Bayesian behavioral analysis code? check out the supplementary materials for these publications</summary>
+
+  - *Growing into it: evidence of an ontogenetic shift in grey whale use of foraging tactics*
+    - [publication](https://www.sciencedirect.com/science/article/pii/S0003347224001556)
+    - [supplementary](https://figshare.com/articles/journal_contribution/Data_and_code_for_Growing_into_it_Evidence_of_an_ontogenetic_shift_in_gray_whale_use_of_foraging_tactics_/24282574)
+  
+  - *Bubble blasts! An adaptation for buoyancy regulation in shallow foraging gray whales*
+    - [publication](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.70093)
+    - [supplementary](https://figshare.com/articles/journal_contribution/Data_and_code_for_Bubble_blasts_An_adaptation_for_buoyancy_regulation_in_shallow_foraging_gray_whale_/25016465)
+
 
 <!--
 **cbirdferrer/cbirdferrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
