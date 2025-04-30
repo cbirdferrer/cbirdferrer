@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Clara.
 
-I'm am a behavioral ecologist using remote sensing to study marine mammals. These days I use drones to study the behavior and morphology of marine mammals, but my background is in studying marine megafauna using image analysis and drone data (🐋,🐧). I've spent years developing software tools to help with research, mostly in the world of cetacean photogrammetry. 
+I'm a behavioral ecologist using remote sensing to study marine mammals. These days I use drones to study the behavior and morphology of marine mammals, but my background is in studying marine megafauna using image analysis and drone data (🐋,🐧). I've spent years developing software tools to help with research, mostly in the world of cetacean photogrammetry. 
 
 I'm currently a postdoctoral scholar in Oregon State University's Marine Mammal Institute where I'm studying social behavior.
 
