@@ -12,7 +12,7 @@ I'm currently a postdoctoral scholar in Oregon State University's Marine Mammal 
 </details>
 
 <details> 
-<summary>Looking for Bayesian behavioral analysis code? check out the supplementary materials for these publications</summary>
+<summary>Looking for Bayesian behavioral analysis code? check out these publications</summary>
 
   - *Growing into it: evidence of an ontogenetic shift in grey whale use of foraging tactics*
     - [publication](https://www.sciencedirect.com/science/article/pii/S0003347224001556)
